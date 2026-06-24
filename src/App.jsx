@@ -127,7 +127,7 @@ export default function App() {
             GitHub
           </a>
           <a 
-            href="https://www.linkedin.com/in/aaron-jacob" 
+            href="https://www.linkedin.com/in/aaron-jacob-b1583137b" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="bg-[#05180c] hover:bg-[#072412] border border-emerald-900/40 hover:border-red-500/40 text-sm text-emerald-200 font-semibold px-6 py-3 rounded-xl transition duration-300"
